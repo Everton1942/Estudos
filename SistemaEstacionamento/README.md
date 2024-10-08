@@ -2,11 +2,13 @@
 
 Esse sistema foi criado como parte de um desafio presente num bootcamp sobre a plataforma .NET e a linguagem C#, ministrado no site da **[DIO](https://web.dio.me/)**. No projeto está presente a consolidação prática dos conteúdos mais iniciais voltados à lógica de programação na linguagem C#, como por exemplo o uso de alguns dos tipos primitivos e não primitivos, contando também com a manipulação de listas.
 
+Foi desenvolvido com a versão 5 do .**NET SDK**.
+
 
 
 ## Requisitos:
 
-Haja vista que para o projeto funcionar é preciso que ele seja compilado, é necessário possuir o **[.NET SDK 5](https://dotnet.microsoft.com/pt-br/download/dotnet/5.0)** instalado e uma IDE ou editor de texto com extensões do .NET e C# para fazer a compilação do projeto.
+Haja vista que para o projeto funcionar é preciso que ele seja compilado, é necessário possuir o **[.NET SDK 5](https://dotnet.microsoft.com/pt-br/download/dotnet/5.0)** instalado e uma IDE ou editor de texto com extensões do .NET e C# para fazer a compilação da solução.
 
 Os mais populares são:
 
@@ -42,11 +44,11 @@ Você pode realizar um **git clone** completo deste repositório e, caso esteja 
 
 
 
-Caso esteja utilizando o **Visual Studio Community** é ainda mais simples, sendo necessário executar o arquivo **SistemaEstacionamento.csproj** e fazer com que ele seja aberto com a IDE.
+Caso esteja utilizando o **Visual Studio Community** é ainda mais simples, sendo necessário executar o arquivo **SistemaEstacionamento.csproj**, que está presenta na pasta do projeto e fazer com que ele seja executado com a IDE.
 
 
 
-O comando para fazer o clone completo é:
+O comando para fazer o clone é:
 
 ```git CLI
 git clone https://github.com/Everton1942/Estudos.git
@@ -54,13 +56,9 @@ git clone https://github.com/Everton1942/Estudos.git
 
 
 
-...
-
-
-
 ## Como testar:
 
-Utilizando o **Visual Studio Code** basta ir até o terminal e executar o comando:
+Utilizando o **Visual Studio Code** e já estando com a pasta aberta, basta ir até o terminal e executar o comando:
 
 ```CLI
 dotnet run
@@ -68,8 +66,4 @@ dotnet run
 
 
 
-Utilizando o **Visual Studio Community** basta fazer a compilação após executar o arquivo **SistemaEstacionamento.csproj**.
-
-------
-
-**Observação:** o programa só irá funcionar se o **[.NET SDK 5](https://dotnet.microsoft.com/pt-br/download/dotnet/5.0)** estiver instalado.
+Já utilizando o **Visual Studio Community** basta fazer a compilação após executar o arquivo **SistemaEstacionamento.csproj**.
