@@ -1,6 +1,6 @@
 # Sistema de estacionamento
 
-Esse sistema foi criado como parte de um desafio presente num bootcamp sobre a plataforma .NET e a linguagem C#, ministrado no site da **[DIO](https://web.dio.me/)**. No projeto está presente a consolidação prática dos conteúdos mais iniciais voltados à lógica de programação na linguagem C#, como por exemplo o uso de alguns dos tipos primitivos e não primitivos, contando também com a manipulação de listas.
+Esse sistema foi criado como parte de um desafio presente num bootcamp sobre a plataforma .NET e a linguagem C#, ministrado no site da **[DIO](https://web.dio.me/)**. No projeto, está presente a consolidação prática dos conteúdos mais iniciais voltados à lógica de programação na linguagem C#, como, por exemplo, o uso de alguns dos tipos primitivos e não primitivos, contando também com a manipulação de listas.
 
 Foi desenvolvido com a versão 5 do .**NET SDK**.
 
@@ -44,7 +44,7 @@ Você pode realizar um **git clone** completo deste repositório e, caso esteja 
 
 
 
-Caso esteja utilizando o **Visual Studio Community** é ainda mais simples, sendo necessário executar o arquivo **SistemaEstacionamento.csproj**, que está presenta na pasta do projeto e fazer com que ele seja executado com a IDE.
+Caso esteja utilizando o **Visual Studio Community** é ainda mais simples, sendo necessário executar o arquivo **SistemaEstacionamento.csproj**, que está presente na pasta do projeto e fazer com que ele seja executado com a IDE.
 
 
 
